@@ -11,26 +11,65 @@ Your task is to use advanced SQL querying techniques to track how player statist
 
 ## THE OBJECTIVES
 1. What schools do MLB players attend?
-   - a) In each decade, how many schools were there that produced MLB players?
-   - b) What are the names of the top 5 schools that produced the most players?
-   - c) For each decade, what were the names of the top 3 schools that produced the most players?
 2. How much do teams spend on player salaries?
-   - a) Return the top 20% of teams in terms of average annual spending
-   - b) For each team, show the cummulative sum of spending over the years
-   - c) Return the first year that each team's cumulative spending surpassed 1 billion
 3. What does each player's career look like?
-   - a) For each player, calculate their age at their first (debut) game, their last game, and their career length (all in years). Sort from longest career to shortest career?
-   - b) What team did each player play on for their starting and ending years?
-   - c) How many players started and ended on the same team and also played for over a decade?
 4. How do player attributes compare?
-   - a) Wich player have the same birthday?
-   - b) Create a summary table that shows for each team, what percent of players bat right, left, and both
-   - c) How have average height and weight at debut game changed over the years, and what's the decade-over-decade difference?
   
-  ## THE SOLUTIONS
-  1. What schools do MLB players attend?
-- a) In each decade, how many schools were there that produced MLB players?
+## THE SOLUTIONS
+1. What schools do MLB players attend?
+   - a) In each decade, how many schools were there that produced MLB players?
      | MySQL Query | Result |
      |----------|----------|
-     | ![](/assets/sec4.assignment1_query.png) | ![](/assets/sec4.assignment1_output.png) |
-  
+     | ![](assets/fp1_school_analysis_A_query.png) | ![](assets/fp1_school_analysis_A_result.png) |
+   - b) What are the names of the top 5 schools that produced the most players?
+     | MySQL Query | Result |
+     |----------|----------|
+     | ![](assets/fp1_school_analysis_B_query.png) | ![](assets/fp1_school_analysis_C_result.png) |
+   - c) For each decade, what were the names of the top 3 schools that produced the most players?
+     | MySQL Query | Result |
+     |----------|----------|
+     | ![](assets/fp1_school_analysis_C_query.png) | ![](assets/fp1_school_analysis_C_result.png) |
+
+2. How much do teams spend on player salaries?
+   - a) Return the top 20% of teams in terms of average annual spending
+     | MySQL Query | Result |
+     |----------|----------|
+     | ![](assets/fp2_salary_analysis_A_query.png) | ![](assets/fp2_salary_analysis_A_result.png) |
+   - b) For each team, show the cummulative sum of spending over the years
+     | MySQL Query | Result |
+     |----------|----------|
+     | ![](assets/fp2_salary_analysis_B_query.png) | ![](assets/fp2_salary_analysis_B_result.png) |
+   - c) Return the first year that each team's cumulative spending surpassed 1 billion
+     | MySQL Query | Result |
+     |----------|----------|
+     | ![](assets/fp2_salary_analysis_C_query.png) | ![](assets/fp2_salary_analysis_C_result.png) |
+
+3. What does each player's career look like?
+   - a) For each player, calculate their age at their first (debut) game, their last game, and their career length (all in years). Sort from longest career to shortest career?
+     | MySQL Query | Result |
+     |----------|----------|
+     | ![](assets/fp3_player_career_analysis_A_query.png) | ![](assets/fp3_player_career_analysis_A_result.png) |
+   - b) What team did each player play on for their starting and ending years?
+     | MySQL Query | Result |
+     |----------|----------|
+     | ![](assets/fp3_player_career_analysis_B_query.png) | ![](assets/fp3_player_career_analysis_B_result.png) |
+   - c) How many players started and ended on the same team and also played for over a decade?
+     | MySQL Query | Result |
+     |----------|----------|
+     | ![](assets/fp3_player_career_analysis_C_query.png) | ![](assets/fp3_player_career_analysis_C_result.png) |
+
+4. How do player attributes compare?
+   - a) Wich player have the same birthday?
+     | MySQL Query | Result |
+     |----------|----------|
+     | ![](assets/fp4_player_comparison_analysis_A_query.png) | ![](assets/fp4_player_comparison_analysis_A_result.png) |
+   - b) Create a summary table that shows for each team, what percent of players bat right, left, and both
+     | MySQL Query | Result |
+     |----------|----------|
+     | ![](assets/fp4_player_comparison_analysis_B_query.png) | ![](assets/fp4_player_comparison_analysis_B_result.png) |
+   - c) How have average height and weight at debut game changed over the years, and what's the decade-over-decade difference?
+     | MySQL Query | Result |
+     |----------|----------|
+     | ![](assets/fp4_player_comparison_analysis_C_query.png) | ![](assets/fp4_player_comparison_analysis_C_result.png) |
+
+_Source Data: Maven Analytic_
