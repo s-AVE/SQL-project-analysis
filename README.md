@@ -2,14 +2,14 @@
 
 ![](img.png)
 
-Leverage everything i have learned in "[SQL for Data Analysis: Advanced SQL Querying Techniques](https://www.udemy.com/share/10cfwd3@RpilmZbx1xxlcnvLWO-Pi7_3GnxJ-NXyvwVk2x-d2gBM9EwzR53WTViwq3sIk695/)" to track how Major League Baseball (MLB) player statistics have changed over time and across different teams in the league
+Leverage everything i have learned in "[SQL for Data Analysis: Advanced SQL Querying Techniques](https://www.udemy.com/share/10cfwd3@RpilmZbx1xxlcnvLWO-Pi7_3GnxJ-NXyvwVk2x-d2gBM9EwzR53WTViwq3sIk695/)" to track how Major League Baseball (MLB) player statistics have changed over time and across different teams in the league.
 
 ## THE SITUATION
-You've just been hired as a Data Analyst Intern for Major League Baseball (MLB), who has recently gotten access to a large of historical player data
+You've just been hired as a Data Analyst Intern for Major League Baseball (MLB), who has recently gotten access to a large of historical player data.
 
 ## THE ASSIGNMENT
-You have access to decades worth of data including player statistics like schools attended, salaries, teams played for, height and weight, and more
-Your task is to use advanced SQL querying techniques to track how player statistics have changed over time and across different teams in the league
+You have access to decades worth of data including player statistics like schools attended, salaries, teams played for, height and weight, and more.
+Your task is to use advanced SQL querying techniques to track how player statistics have changed over time and across different teams in the league.
 
 
 ## THE OBJECTIVES
