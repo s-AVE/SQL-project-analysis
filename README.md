@@ -1,4 +1,7 @@
 # SQL-project-analysis
+
+![](img.png)
+
 Leverage everything i have learned in "[SQL for Data Analysis: Advanced SQL Querying Techniques](https://www.udemy.com/share/10cfwd3@RpilmZbx1xxlcnvLWO-Pi7_3GnxJ-NXyvwVk2x-d2gBM9EwzR53WTViwq3sIk695/)" to track how Major League Baseball (MLB) player statistics have changed over time and across different teams in the league
 
 ## THE SITUATION
