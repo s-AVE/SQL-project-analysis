@@ -13,10 +13,10 @@ Your task is to use advanced SQL querying techniques to track how player statist
 
 
 ## THE OBJECTIVES
-1. [What schools do MLB players attend?](#1-What-schools-do-MLB-players-attend?)  
+1. [What schools do MLB players attend?](#1-what-schools-do-mlb-players-attend)  
 2. [How much do teams spend on player salaries?](#2-how-much-do-teams-spend-on-player-salaries)  
-3. [What does each player's career look like?](#3-What-does-each-player's-career-look-like?)  
-4. [How do player attributes compare?](#4-How-do-player-attributes-compare?)  
+3. [What does each player's career look like?](#3-what-does-each-players-career-look-like)  
+4. [How do player attributes compare?](#4-how-do-player-attributes-compare)  
   
 # THE SOLUTIONS
 ### 1. What schools do MLB players attend?
