@@ -33,7 +33,7 @@ Your task is to use advanced SQL querying techniques to track how player statist
      |----------|----------|
      | ![](assets/fp1_school_analysis_C_query.png) | ![](assets/fp1_school_analysis_C_result.png) |
 
-### 2. How much do teams spend on player salaries?
+## 2. How much do teams spend on player salaries?
    - a) Return the top 20% of teams in terms of average annual spending
      | MySQL Query | Result |
      |----------|----------|
