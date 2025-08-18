@@ -19,7 +19,7 @@ Your task is to use advanced SQL querying techniques to track how player statist
 4. [How do player attributes compare?](#4-how-do-player-attributes-compare)  
   
 # THE SOLUTIONS
-### 1. What schools do MLB players attend? - [View SQL File](sql/1)final_project_school_analysis.sql)
+### 1. What schools do MLB players attend? - [View SQL File](sql/1-final_project_school_analysis.sql)
    - a) In each decade, how many schools were there that produced MLB players?
      | MySQL Query | Result |
      |----------|----------|
@@ -33,7 +33,7 @@ Your task is to use advanced SQL querying techniques to track how player statist
      |----------|----------|
      | ![](assets/fp1_school_analysis_C_query.png) | ![](assets/fp1_school_analysis_C_result.png) |
 
-### 2. How much do teams spend on player salaries? - [View SQL File](sql/2)final_project_salary_analysis.sql)
+### 2. How much do teams spend on player salaries? - [View SQL File](sql/2-final_project_salary_analysis.sql)
    - a) Return the top 20% of teams in terms of average annual spending
      | MySQL Query | Result |
      |----------|----------|
@@ -47,7 +47,7 @@ Your task is to use advanced SQL querying techniques to track how player statist
      |----------|----------|
      | ![](assets/fp2_salary_analysis_C_query.png) | ![](assets/fp2_salary_analysis_C_result.png) |
 
-### 3. What does each player's career look like? - [View SQL File](sql/3)final_project_player_career_analysis.sql)
+### 3. What does each player's career look like? - [View SQL File](sql/3-final_project_player_career_analysis.sql)
    - a) For each player, calculate their age at their first (debut) game, their last game, and their career length (all in years). Sort from longest career to shortest career?
      | MySQL Query | Result |
      |----------|----------|
@@ -61,7 +61,7 @@ Your task is to use advanced SQL querying techniques to track how player statist
      |----------|----------|
      | ![](assets/fp3_player_career_analysis_C_query.png) | ![](assets/fp3_player_career_analysis_C_result.png) |
 
-### 4. How do player attributes compare? - [View SQL File](sql/4)final_project_player_comparison_analysis.sql)
+### 4. How do player attributes compare? - [View SQL File](sql/4-final_project_player_comparison_analysis.sql)
    - a) Wich player have the same birthday?
      | MySQL Query | Result |
      |----------|----------|
