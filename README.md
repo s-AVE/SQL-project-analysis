@@ -19,7 +19,8 @@ Your task is to use advanced SQL querying techniques to track how player statist
 4. [How do player attributes compare?](#4-how-do-player-attributes-compare)  
   
 # THE SOLUTIONS
-## 1. What schools do MLB players attend? - [View SQL File](sql/1-final_project_school_analysis.sql)
+## 1. What schools do MLB players attend?  
+[View SQL File](sql/1-final_project_school_analysis.sql)
    - a) In each decade, how many schools were there that produced MLB players?
      | MySQL Query | Result |
      |----------|----------|
