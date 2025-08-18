@@ -18,8 +18,8 @@ Your task is to use advanced SQL querying techniques to track how player statist
 3. [What does each player's career look like?](3-What-does-each-player's-career-look-like?)
 4. [How do player attributes compare?](4-How-do-player-attributes-compare?)
   
-## THE SOLUTIONS
-### 1. What schools do MLB players attend?
+# THE SOLUTIONS
+## 1. What schools do MLB players attend?
    - a) In each decade, how many schools were there that produced MLB players?
      | MySQL Query | Result |
      |----------|----------|
@@ -33,7 +33,7 @@ Your task is to use advanced SQL querying techniques to track how player statist
      |----------|----------|
      | ![](assets/fp1_school_analysis_C_query.png) | ![](assets/fp1_school_analysis_C_result.png) |
 
-#### 2. How much do teams spend on player salaries?
+### 2. How much do teams spend on player salaries?
    - a) Return the top 20% of teams in terms of average annual spending
      | MySQL Query | Result |
      |----------|----------|
@@ -47,7 +47,7 @@ Your task is to use advanced SQL querying techniques to track how player statist
      |----------|----------|
      | ![](assets/fp2_salary_analysis_C_query.png) | ![](assets/fp2_salary_analysis_C_result.png) |
 
-### 3. What does each player's career look like?
+## 3. What does each player's career look like?
    - a) For each player, calculate their age at their first (debut) game, their last game, and their career length (all in years). Sort from longest career to shortest career?
      | MySQL Query | Result |
      |----------|----------|
@@ -61,7 +61,7 @@ Your task is to use advanced SQL querying techniques to track how player statist
      |----------|----------|
      | ![](assets/fp3_player_career_analysis_C_query.png) | ![](assets/fp3_player_career_analysis_C_result.png) |
 
-### 4. How do player attributes compare?
+## 4. How do player attributes compare?
    - a) Wich player have the same birthday?
      | MySQL Query | Result |
      |----------|----------|
